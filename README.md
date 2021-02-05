@@ -4,4 +4,4 @@ intro, pictures, https
 
 ##Informal responses
 
-![challenge problem]()
+![challenge problem](A Person's path between homes.png)
