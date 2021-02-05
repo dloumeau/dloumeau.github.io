@@ -1,6 +1,8 @@
-# Hello! My name Daniel Loumeau and this is my Wicked Problems repository
+# Hello! Welcome to my Wicked Problems repository
 
-intro, pictures, https
+My name is Daniel Loumeau and I am a freshman from Long Island New York. I have been taking classes on the premed track but am still undecided about my major. Outside academics, love playing soccer, watching movies, and spending time with friends.
+
+![]()
 
 ## Informal responses
 
