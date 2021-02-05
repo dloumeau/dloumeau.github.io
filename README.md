@@ -4,4 +4,4 @@ intro, pictures, https
 
 ##Informal responses
 
-![]()
+![alt text](http://url/to/img.png)
