@@ -1,4 +1,4 @@
-# Hello! My name Daniel Loumeau and this is my WIcked Problems repository
+# Hello! My name Daniel Loumeau and this is my Wicked Problems repository
 
 intro, pictures, https
 
