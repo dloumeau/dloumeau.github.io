@@ -7,4 +7,4 @@ My name is Daniel Loumeau and I am a freshman from Long Island New York. I have 
 ## Informal responses:
 
 ## Challenge question from 2/5
-[Challenge Question 2/5](A Person's path between homes.png)
+[Challenge Question 2/5](https://raw.githubusercontent.com/dloumeau/data100repository/main/A%20Person's%20path%20between%20homes.png)
