@@ -1,2 +1,0 @@
-Hello Wicked Problems
-![]
