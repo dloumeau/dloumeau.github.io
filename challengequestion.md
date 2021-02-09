@@ -2,4 +2,4 @@
 
 ![](A_Person's_Path_Between_Homes.png)
 
-[Challenge QUestion](challenge_question.html)
+[Challenge Question](challenge_question.html)
