@@ -6,4 +6,4 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 
 ## DATA 100 Assignments:
 - [Challenge Question 2/5](https://dloumeau.github.io/data100/)
-- [Challenge Problem](
+- [Challenge Problem](CHALLENGE_QUESTION.html)
