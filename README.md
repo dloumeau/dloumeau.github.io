@@ -5,6 +5,5 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-02-08%20at%2010.15.46%20PM.png)
 
 ## DATA 100 Assignments:
-- [Challenge Question 2/5](https://dloumeau.github.io/data100/)
 - [Challenge Question 2/5](CHALLENGE_QUESTION.html)
 
