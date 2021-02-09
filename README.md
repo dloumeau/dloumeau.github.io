@@ -6,5 +6,5 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 
 ## DATA 100 Assignments:
 - [Challenge Question 2/5](https://raw.githubusercontent.com/dloumeau/data100repository/main/A_Person's_Path_Between_Homes.png)
-- [Challenge Question 2/5](challengequestion.html)
+- [Challenge Question 2/5](https://dloumeau.github.io/data100/)
 
