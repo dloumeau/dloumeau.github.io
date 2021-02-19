@@ -11,4 +11,3 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 
 
 
-
