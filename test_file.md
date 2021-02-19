@@ -1,7 +1,5 @@
 ## Test File 
 
-![](cambodia.png)
-
 # This is the response I wrote for the reflection prompt:
 
    While data science has shown signs of transforming international development, trusting broad data on a global scale must be taken with a grain of salt.
