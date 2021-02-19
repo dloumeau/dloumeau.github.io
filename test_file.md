@@ -1,4 +1,4 @@
-# This is the response I wrote for the reflection prompt:
+# Reflection on "Don’t forget people in the use of big data for development" by Joshua Blumenstock:
 
    While data science has shown signs of transforming international development, trusting broad data on a global scale must be taken with a grain of salt.
 The accuracy of machine algorithms fluctuates and can degrade over time. In the paper “Don’t forget people in the use of big data for development” by Joshua
@@ -24,4 +24,4 @@ unknowing not only leads to distrust but it is an underlying issue behind these 
 
    In lieu of such drastic potential for promoting applications yet demoralizing hindrances, the balancing act can become difficult. This last statement
 encapsulates the theme Joshua Blumenstock was trying to get at in his paper. Big data must be humbled before really having an impact on a global community. There
-has to be a balance between promoting how this data is applied with as quoted above “demoralizing hindrances” of human development.
+has to be a balance between promoting how this data is applied with as quoted above “demoralizing hindrances” on human development.
