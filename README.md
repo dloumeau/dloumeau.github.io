@@ -6,5 +6,5 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 
 ## DATA 100 Assignments:
 - [Challenge Question 2/5](CHALLENGE_QUESTION.html)
-- [Country Plot 2/8](Spatial_Population_of_Cambodia.md)
-- [DS Reflection #1](DS_Reflection.md)
+- [Country Plot 2/8](Spatial_Population_of_Cambodia.html)
+- [DS Reflection #1](DS_Reflection.html)
