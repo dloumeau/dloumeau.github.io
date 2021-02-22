@@ -5,8 +5,8 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-02-08%20at%2010.15.46%20PM.png)
 
 ## DATA 100 Assignments:
-- [Challenge Question 2/5](CHALLENGE_QUESTION.html)
-- [Country Plot 2/8](Spatial_Population_of_Cambodia.html)
+- [First Challenge Question 2/5](CHALLENGE_QUESTION.html)
+- [Project 1 Challenge Question and Stretch Goals](Spatial_Population_of_Cambodia.html)
 - [DS Reflection #1](test_file.html)
 
 
