@@ -8,5 +8,6 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 - [First Challenge Question 2/5](CHALLENGE_QUESTION.html)
 - [Project 1 Challenge Question and Stretch Goals](Spatial_Population_of_Cambodia.html)
 - [DS Reflection #1](test_file.html)
+- [Project #2 material](Project_2.html)
 
 
