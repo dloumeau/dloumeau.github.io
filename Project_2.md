@@ -5,5 +5,5 @@ Below, I plotted the spatial description of Cambodia. Adjacent to it, I made a g
 
 ## Stretch Goal 1:
 
-Below, I extracted the population count of Cambodia as seen above but under adm2 regions.
+Below, I extracted the population count of Cambodia under adm2 regions.
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-03-05%20at%2010.13.35%20AM.png)
