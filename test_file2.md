@@ -18,9 +18,9 @@ paradigm focusing on data centered exploration through approaches in empiricism 
    Because the humanities and social sciences are less tangible, Kitchen is uncertain how data will impact these fields. A lot of people argue that the arts and
 literature can not be treated as data because it’s not measurable the same way physical sciences are. Contenders also argue that humans are too complex for their
 nature to be deduced by measured laws citing examples such as wars, violence, racism...etc. While this is true, data deluge is advancing a better understanding of
-humans and these behaviors. Kitchen discusses how data used in digital sciences is descriptive (looks for patterns) whereas in social sciences, data has to be used
-for causality. Thus, he concludes that big data analytics must be employed under a different epistemological framework that makes reasonings when observing social
-sciences. Part of the favor of big data over strictly models is that data can extract additional insights. Knowing this, data can offer a more holistic view when
-studying complex systems such as the environmental system discussed in Rob Kitchens paper. Regarding behavior, big data offers proliferation of the digitization of
-unstructured data. It also offers numerous opportunities about historical, political, economic, social, and cultural data. All of which will be valuable insights
-towards improved understanding of human development as a complex and adapting social/economic system.
+humans and these behaviors. Kitchen discusses how data used in digital sciences is descriptive (looks for patterns), whereas data in social sciences has to be used
+for causality. Thus, he concludes that big data analytics must be employed under a different epistemological framework that makes reasonings/infers causality when
+observing social sciences. Part of the favor of big data over strictly models is that data can extract additional insights. Knowing this, data can offer a more
+holistic view when studying complex systems such as the environmental system discussed in Rob Kitchens paper. Regarding behavior, big data offers proliferation of
+the digitization of unstructured data. It also offers numerous opportunities about historical, political, economic, social, and cultural data. All of which will be
+valuable insights towards improved understanding of human development as a complex and adapting social/economic system.
