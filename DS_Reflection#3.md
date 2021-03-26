@@ -40,5 +40,5 @@ summarize this situation. He says that it's easier to create an institution that
 
 8) Own Barding emphasizes that we must resist fatalism. We don't need to accept the pure result that stems from coevolution. We can accept it but we may also
 shape/accelerate it for progress and development. For example, Norman Borlaug crossbred wheat crops (made them disease resistant) to improve yield and prevent
-starvation. He caused a rapid increase in agricultural production in what became known as “the Green Revolution”
+starvation. He caused a rapid increase in agricultural production in what became known as “the Green Revolution”.
 
