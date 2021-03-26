@@ -1,3 +1,5 @@
+## Reflection on "Development and Complexity" by Owen Barder
+
 1) Amartya sen defines development as enlarging people's choices, freedoms, and capabilities so they can have access to knowledge, live a long healthy life and
 participate in their community. This concept is supported by Owen Barder who expands on this notion. Owen argues we should think of development as property of the
 economic and social system itself. The economy is made up of adaptive firms, individuals, and institutions. It behaves like a complex adaptive system. Owen explains
