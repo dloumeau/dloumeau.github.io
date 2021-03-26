@@ -11,7 +11,5 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 - [Project #2 material](Project_2.html)
 - [DS Reflection #2](test_file2.html)
 - [Project 3 Deliverable](Project_3_Deliverable.html)
-- [Reflection #3](DS_Reflection#3.html)
 - [DS Reflection #3](test_file3.html)
-- x
 
