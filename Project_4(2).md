@@ -17,7 +17,7 @@
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-04-16%20at%205.43.25%20PM.png)
 ### 3D plot of difference:
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-04-17%20at%202.30.04%20PM.png)
-
+![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-04-17%20at%202.49.39%20PM.png)
 ## Logsum:
 
 ### Predicted population of Cambodia:
