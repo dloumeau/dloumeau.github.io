@@ -34,6 +34,6 @@
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-04-17%20at%202.47.57%20PM.png)
 
 ## Conclusion:
--Based off of the above plots, I can assume that the model using mean data produced the most accurate results. The mean plot for "Difference between predicted
+Based off of the above plots, I can assume that the model using mean data produced the most accurate results. The mean plot for "Difference between predicted
 results and 2015 WorldPop estimates" is closer to zero than that of sum and logsum. Thus, I can infer that while each of the models may have been somewhat flawed,
 the mean plots may have had the least differences. 
