@@ -7,7 +7,7 @@ utilizing scale will lead to a more fuller understanding of human development as
 when it’s size changes. In terms of systems, quantitative scaling describes how any measurable characteristic of plants, animals, ecosystems, companies, and 
 cities can scale with size. 
 
-   Early on in his book, Geoff West explains something referred to as  “generic laws”. A study on heart rate of different species was conducted. What was surprising 
+   Early in, Geoff West explains something referred to as  “generic laws”. A study on heart rate of different species was conducted. What was surprising 
 was the fact that the number of heart beats was a consistent line ranging from species like mice(who have a very short lifespan) to whales (who have a very long 
 lifespan). Noting the fact that all organisms have a certain sense of underlying order between them, Geoff discusses other examples where scaling is utilized. With 
 medicine, certain drugs and tests are conducted on mice. By scaling up the result of these tests, it’s possible to discover how this medicine may affect human 
