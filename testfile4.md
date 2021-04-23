@@ -37,5 +37,5 @@ and make causality because that's just crazy. We need a model. The large hadron 
 particle. This machine was BIG. It had 60 million collisions each second and extracted 150 exabytes of data per day. Now simply using the data to find the particle 
 would be almost impossible considering they have to focus on .00001 percent of the data stream. But with a model telling them to not look at the debris of the 
 collision and to target specific areas, they were able to find the Higgs  particle. Using a theory with LHC algorithms is what confirmed this finding. These results 
-support Geoff’s notions that scientific models are indeed not dead, and they will continue to be utilized in the face of big data. 
+support Geoff’s notions that scientific models are indeed not dead, and they will continue to be utilized in the face of big data.  
 
