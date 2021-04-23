@@ -15,6 +15,4 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 - [DS Reflection #1](test_file.html)
 - [DS Reflection #2](test_file2.html)
 - [DS Reflection #3](test_file3.html)
-- [DS Reflection #4](Data_Science_Reflection#4.html)
 - [DS Reflection #4!](testfile4.html)
-- [test](testfile4.html)
