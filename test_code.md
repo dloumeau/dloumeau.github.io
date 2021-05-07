@@ -9,15 +9,15 @@ correlation but not direct causality. To resolve this problem, the way in which 
 together. A new system of measurement will alter new data analytics to fit the desired role. This 4th paradigm revolves around data centered exploration using 
 approaches in empiricism or data driven science (inductive, deductive, and abductive methods/measurements). Thus, it's fair to say a revolution in measurement often 
 follows a revolution in science. And this revamped system in measurement often helps guide data with models to help better understand complex systems. Adding onto 
-this point Geoff West raised similar arguments in his book, “Scale: Thue Universal laws of Life and Death in Organisms, Cities and Companies.” Geoff  West  claims  
-measurement  has  played  a  central  role in  the development of our understanding of the entire universe. Data provides the basis for constructing, testing, and 
+this point Geoff West raised similar arguments in his book, “Scale: Thue Universal laws of Life and Death in Organisms, Cities and Companies.” Geoff West claims  
+measurement has played a central role in the development of our understanding of the entire universe. Data provides the basis for constructing, testing, and 
 refining our theories and models indicate what problem or question the data is trying to tackle. For example, the large hadron collider, a particle accelerator, was 
 developed in an attempt to find the Higgs Particle. The large machine extracted 150 exabytes of data per day. Tring to find the particle in .00001 percent of that 
 mess sounds impossible. But using a model/designed framework to guide the machine over the data, they were able to successfully discover the Higgs Particle. West 
 then reiterates the idea that models are not dead, and only by using models with our data will we be able to make these scientific achievements and better 
 understand the world around us. 
 
-Barder claims that economic systems are evolutionary systems. Barder noted that the last 50- years have seen economic success and no economic model has been able to 
+Barder claims that economic systems are evolutionary systems. Barder noted that the last 50 years have seen economic success and no economic model has been able to 
 accurately describe or predict it. Take the neon capital growth model (discussed in his paper “Development and Complexity”) for example. It offered technical change 
 on top of capital and labor as a means to model output and it used a conventional economic model as a basis. The technical change had no result or answer tho. 
 Barder describes this scenario like the economy was a dish and had some missing ingredient that all models just couldn't quite catch. It could be capital, 
@@ -25,11 +25,11 @@ institutions, technology, or different politics maybe. Nobody knew. The economic
 economists argued these models describe the potential of institutions and firms, thus that was why there were no answers or ambiguity in their results. Knowing how 
 complex economic systems are and how we model them in such manners, barder made this claim that they indeed are evolutionary systems. But modeling economic systems 
 is not impossible. In Geoff West’s book on scaling, he describes the use of scaling in data science to model companies, infrastructure/social factors within cities, 
-and even living things. More recently, data used to model cities has given us significant  gains  in  our  ability  to  describe,  analyze  and  predict human 
+and even living things. More recently, data used to model cities has given us significant gains in our ability to describe, analyze and predict human 
 development processes. We have learned that less infrastructure is needed per capita in cities as the population increases. This finding is important not only in 
 helping us better understand human behavior but also fiscally as well. Using sublinear scaling for example has allowed scientists to make an educated guess on the 
 characteristics of large companies based on those of smaller ones. Or inversely, companies that make trillions of dollars in revenue, like Walmart, can be scaled 
-down  to measure characteristics of smaller companies with under 10 million in revenue. Of course this is just one realm of the economic system but data science has 
+down to measure characteristics of smaller companies with under 10 million in revenue. Of course this is just one realm of the economic system but data science has 
 made major major advancements at understanding many of its underlying principles through scaling. 
 
 The only main reason to be concerned for the use of data science is most likely data privacy. Measuring phone data and where individuals shop, read information, get 
