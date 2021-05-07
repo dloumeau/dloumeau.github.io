@@ -9,8 +9,7 @@ correlation but not direct causality. To resolve this problem, the way in which 
 together. A new system of measurement will alter new data analytics to fit the desired role. This 4th paradigm revolves around data centered exploration using 
 approaches in empiricism or data driven science (inductive, deductive, and abductive methods/measurements). Thus, it's fair to say a revolution in measurement often 
 follows a revolution in science. And this revamped system in measurement often helps guide data with models to help better understand complex systems. Adding onto 
-this point Geoff West raised similar arguments in his book, “Scale: Thue Universal laws of Life and Death in Organisms, Cities and Companies.” Geoff West claims  
-measurement has played a central role in the development of our understanding of the entire universe. Data provides the basis for constructing, testing, and 
+this point Geoff West raised similar arguments in his book, “Scale: Thue Universal laws of Life and Death in Organisms, Cities and Companies.” Geoff West claims measurement has played a central role in the development of our understanding of the entire universe. Data provides the basis for constructing, testing, and 
 refining our theories and models indicate what problem or question the data is trying to tackle. For example, the large hadron collider, a particle accelerator, was 
 developed in an attempt to find the Higgs Particle. The large machine extracted 150 exabytes of data per day. Tring to find the particle in .00001 percent of that 
 mess sounds impossible. But using a model/designed framework to guide the machine over the data, they were able to successfully discover the Higgs Particle. West 
