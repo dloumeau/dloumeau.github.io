@@ -18,5 +18,8 @@ My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have
 - [DS Reflection #4](testfile4.html)
 - [DS Reflection #5](test_code.html)
 ## Final Project:
+- [Accessibility #1](accessibility1.html)
+- [Accessibility #2](accessibility2.html)
+- [Accessibility #3](accessibility3.html)
 
 
