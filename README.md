@@ -3,7 +3,8 @@
 My name is Daniel Loumeau and I am a rising senior from Long Island, New York. I am a mathematics major and computer-science minor at the College of William and Mary, and I created this repository to organize some of my Data Science projects  data100repository
 
 ![](https://raw.githubusercontent.com/dloumeau/dloumeau.github.io/main/Screen%20Shot%202021-02-08%20at%2010.15.46%20PM.png)
-![](https://github.com/dloumeau/dloumeau.github.io/IMG_1361%2.jpg)
+![IMG_1361 2](https://user-images.githubusercontent.com/78128831/213442149-1a46669f-3039-4565-b31f-9c2187267431.jpg)
+
 
 
 ## Challenge Questions:
