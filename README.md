@@ -1,6 +1,6 @@
 # Hello! Welcome to my repository
 
-My name is Daniel Loumeau and I am a rising senior from Long Island, New York. I am a mathematics major and computer-science minor at the College of William and Mary, and I created this repository to organize some of my data science projects.
+My name is Daniel Loumeau and I am a rising senior at the College of William and Mary. I am a mathematics major and computer-science minor, and I created this repository to organize some of my data science projects.
 
 <img src="https://user-images.githubusercontent.com/78128831/213442149-1a46669f-3039-4565-b31f-9c2187267431.jpg" width="33%" height="33%">
 
