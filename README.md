@@ -1,6 +1,6 @@
-# Hello! Welcome to my Wicked Problems repository
+# Hello! Welcome to my repository
 
-My name is Daniel Loumeau and I am a freshman from Long Island, New York. I have been taking classes on the pre-med track but am still undecided about my major. Outside academics, I love playing soccer, watching movies, and spending time with friends. 
+My name is Daniel Loumeau and I am a rising senior from Long Island, New York. I am a mathematics majoor and computer-science minor at the College of William and Mary, and I created this repository to organize some of my Data Science projects  
 
 ![](https://raw.githubusercontent.com/dloumeau/data100repository/main/Screen%20Shot%202021-02-08%20at%2010.15.46%20PM.png)
 
