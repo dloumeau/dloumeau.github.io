@@ -4,7 +4,7 @@ My name is Daniel Loumeau and I am a rising senior from Long Island, New York. I
 
 ![](https://raw.githubusercontent.com/dloumeau/dloumeau.github.io/main/Screen%20Shot%202021-02-08%20at%2010.15.46%20PM.png)
 ![IMG_1361 2](https://user-images.githubusercontent.com/78128831/213442149-1a46669f-3039-4565-b31f-9c2187267431.jpg)
-
+<img src="https://user-images.githubusercontent.com/78128831/213442149-1a46669f-3039-4565-b31f-9c2187267431.jpg" width="50%" height="50%">
 
 
 ## Challenge Questions:
